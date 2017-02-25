@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    color:#7c7c7c;
+    font-family: "Microsoft Yahei","Î¢ÈíÑÅºÚ",Arial,Helvetica,sans-serif;
+    font-size:14px;
+    background-color:#ffffff;
+}
+li{
+    list-style: none;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.orange{
+    color:#fda100;
+}
